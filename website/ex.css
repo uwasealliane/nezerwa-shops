@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Facebook Icon Example</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-vp3GQrQsqdf1Qd4kuWlfGY9sPlusAlYJMrGS05k5psPdzD6j Locate's bZKvkWlibb1KQ plus X5 " crossorigin="anonymous">
+</head>
+<body>
+	<a href="https://www.facebook.com/yourpage" target="_blank">
+		<i class="fab fa-facebook-f fa-3x"></i>
+	</a>
+</body>
+</html>
